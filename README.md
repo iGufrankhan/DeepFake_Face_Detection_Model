@@ -7,8 +7,8 @@
 ---
 
 ## 📅 Project Timeline
-- **Start Date:** July 1, 2025  
-- **Completion Date:** July 8, 2025  
+- **Start Date:** June 25, 2025  
+- **Completion Date:** July 9, 2025  
 - **Mentor:** Mr. Varun Mishra  
 - **Organized By:** CDAC Noida - Cyber Gyan Virtual Internship Program
 
