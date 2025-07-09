@@ -2,7 +2,7 @@
 
 > A powerful AI-based system to detect manipulated or synthetic (deepfake) images and videos using lightweight deep learning models. Developed as part of the **Cyber Gyan Virtual Internship Program**, CDAC Noida – July 2025.
 
-![Streamlit UI Screenshot](screenshots/app.png)
+![Streamlit UI Screenshot](app.png)
 
 ---
 
