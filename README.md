@@ -28,22 +28,15 @@ Cybercriminals increasingly use deep learning technologies to manipulate facial 
 - Realtime model prediction with clean UI  
 - Lightweight and optimized for fast inference  
 
-## 🚀 Project Structure  
-.
-├── app.py # Streamlit UI
-├── predict.py # Prediction logic
-├── train.py # Model training script
-├── deepfake_model.h5 # Trained Keras model
-├── dataset/ # Images (real and fake)
-├── screenshots/ # Screenshots of the app
-└── requirements.txt
+🚀 Project Structure
+<pre> ``` . ├── app.py # Streamlit UI ├── predict.py # Prediction logic ├── train.py # Model training script ├── deepfake_model.h5 # Trained Keras model ├── dataset/ # Images (real and fake) ├── screenshots/ # Screenshots of the app └── requirements.txt ``` </pre>
 
 
 ## 🖥️ How to Run Locally  
-git clone https://github.com/igufrankhan/deepfake-detection
-cd deepfake-detection
-pip install -r requirements.txt
-streamlit run app.py
+git clone https://github.com/igufrankhan/deepfake-detection  
+cd deepfake-detection  
+pip install -r requirements.txt  
+streamlit run app.py  
 
 
 ## 🔗 Dataset Used  
