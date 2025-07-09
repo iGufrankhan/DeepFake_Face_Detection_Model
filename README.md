@@ -56,23 +56,25 @@ Cybercriminals increasingly use deep learning technologies to manipulate facial 
 └── requirements.txt
 
 
-🖥️ How to Run Locally
-git clone https://github.com/yourusername/deepfake-detection
-cd deepfake-detection
-pip install -r requirements.txt
-streamlit run app.py
-🔗 Dataset Used
-We used the following dataset to train and test our deepfake detection model:
+## 🖥️ How to Run Locally
+- **git clone https://github.com/yourusername/deepfake-detection
+- **cd deepfake-detection
+** pip install -r requirements.txt
+** streamlit run app.py
 
-📁 Real and Fake Face Detection Dataset – Kaggle
 
-Contains high-resolution real and fake face images.
+## 🔗 Dataset Used
 
-Generated using advanced GAN architectures.
+** We used the following dataset to train and test our deepfake detection model:
 
-Suitable for face manipulation detection tasks.
+📁 [**Real and Fake Face Detection Dataset – Kaggle**](https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection)
 
-🙏 Thank You
+- Contains high-resolution real and fake face images.
+- Generated using advanced GAN architectures.
+- Suitable for face manipulation detection tasks.
+
+
+## 🙏 Thank You
 This project was completed under the guidance of Mr. Varun Mishra as part of the Cyber Gyan Virtual Internship Program organized by CDAC Noida
 
 
