@@ -38,11 +38,12 @@ This project was completed as part of the:
 - Streamlit
 - MobileNetV2
 - Matplotlib
-
 ---
 
 ## 📁 Folder Structure
 
+```bash
+DeepFake_Face_Detection_Model/
 ├── app.py                      # Streamlit App
 ├── train.py                    # Model training script
 ├── predict.py                  # Image prediction logic
@@ -51,11 +52,12 @@ This project was completed as part of the:
 ├── Figure_2.png                # Accuracy graph
 ├── cover.jpg                   # App Cover Image
 ├── requirements.txt            # Required libraries
-└── README.md                   # This file
----
+└── README.md                   # Documentation file
+
  
 ##  ▶️ How to Run the App
 git clone https://github.com/iGufrankhan/DeepFake_Face_Detection_Model.git
+
 cd DeepFake_Face_Detection_Model
 
 
