@@ -18,7 +18,7 @@ This project uses Convolutional Neural Networks (CNNs) and the MobileNetV2 archi
 
 ### 🖼️ App Preview
 
-![App Screenshot](Deep_fake_project/app.png)
+![App Screenshot](app.png)
 
 ---
 
