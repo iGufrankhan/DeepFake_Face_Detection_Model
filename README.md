@@ -13,6 +13,15 @@ This project uses Convolutional Neural Networks (CNNs) and the MobileNetV2 archi
 
 ---
 
+
+---
+
+### 🖼️ App Preview
+
+![App Screenshot](deep_fake_project/app.png)
+
+---
+
 ## 🧪 Project Internship Details
 
 This project was completed as part of the:
