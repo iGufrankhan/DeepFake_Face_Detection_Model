@@ -42,7 +42,6 @@ This project was completed as part of the:
 
 ## 📁 Folder Structure
 
-```bash
 DeepFake_Face_Detection_Model/
 ├── app.py                      # Streamlit App
 ├── train.py                    # Model training script
@@ -53,6 +52,10 @@ DeepFake_Face_Detection_Model/
 ├── cover.jpg                   # App Cover Image
 ├── requirements.txt            # Required libraries
 └── README.md                   # Documentation file
+
+
+
+
 
  
 ##  ▶️ How to Run the App
@@ -80,6 +83,10 @@ I am also thankful to the faculty and staff of **BIT Sindri** and my peers for t
 Lastly, I sincerely appreciate the efforts of the entire organizing team of the internship for creating such a productive and learning-oriented environment.
 
 This internship has greatly enhanced my knowledge in AI/ML, Streamlit app development, and practical research in DeepFake detection systems. I look forward to applying these learnings in future endeavors.
+
+
+
+
 
 
 
