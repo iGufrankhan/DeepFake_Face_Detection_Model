@@ -32,7 +32,7 @@ This project was completed as part of the:
 
 ## 🖥️ Technologies Used
 
-- Python 3.11+
+- Python 3.10
 - TensorFlow / Keras
 - OpenCV
 - Streamlit
@@ -43,51 +43,45 @@ This project was completed as part of the:
 
 ## 📁 Folder Structure
 
-```bash
-├── app.py                # Streamlit App
-├── train.py              # Model training script
-├── predict.py            # Image prediction logic
-├── deepfake_detection_model.h5  # Trained model
-├── Figure_1.png          # Loss graph
-├── Figure_2.png          # Accuracy graph
-├── cover.jpg             # App Cover Image
-├── requirements.txt      # Required libraries
-└── README.md             # This file
-
+├── app.py                      # Streamlit App
+├── train.py                    # Model training script
+├── predict.py                  # Image prediction logic
+├── deepfake_detection_model.h5 # Trained model
+├── Figure_1.png                # Loss graph
+├── Figure_2.png                # Accuracy graph
+├── cover.jpg                   # App Cover Image
+├── requirements.txt            # Required libraries
+└── README.md                   # This file
 ---
-
-
-▶️ How to Run the App
-Clone the repo:
-
-bash
-Copy
-Edit
+ 
+##  ▶️ How to Run the App
 git clone https://github.com/iGufrankhan/DeepFake_Face_Detection_Model.git
 cd DeepFake_Face_Detection_Model
 
 
-(Optional) Create a virtual environment:
-
-bash
-Copy
-Edit
-python -m venv venv
-venv\Scripts\activate   # Windows
-source venv/bin/activate  # macOS/Linux
-Install requirements:
-
-bash
-Copy
-Edit
+## Install dependencies
 pip install -r requirements.txt
-Run the Streamlit app:
 
-bash
-Copy
-Edit
+## Run the Streamlit App
 streamlit run app.py
 
 
+
+## 🙏 Acknowledgement
+
+I would like to express my sincere gratitude to **Centre for Development of Advanced Computing (CDAC), Noida** for giving me the opportunity to work on this exciting and meaningful project as part of the **CYBER GYAN Virtual Internship Program (June–July 2025)**.
+
+I extend my heartfelt thanks to my respected mentor, **Mr. Varun Mishra**, for his valuable guidance, continuous support, and expert advice throughout the project. His mentorship has been instrumental in deepening my understanding of Artificial Intelligence and Machine Learning applications in real-world cybersecurity challenges.
+
+I am also thankful to the faculty and staff of **BIT Sindri** and my peers for their encouragement and insightful discussions.
+
+Lastly, I sincerely appreciate the efforts of the entire organizing team of the internship for creating such a productive and learning-oriented environment.
+
+This internship has greatly enhanced my knowledge in AI/ML, Streamlit app development, and practical research in DeepFake detection systems. I look forward to applying these learnings in future endeavors.
+
+
+
+
+  
 
 
