@@ -22,10 +22,8 @@ This project was completed as part of the:
 🗓️ Duration: **June–July 2025**
 
 **Submitted By:**  
-- 👨‍💻 Name: **Gufran Khan**  
-- 📍 Location: **Jharkhand**  
-- 🎓 College: **BIT Sindri**  
-
+- 👨‍💻 Name: **Gufran Khan**
+- 
 **Mentor:**  
 - 👨‍🏫 **Varun Mishra**  
 - 🧠 **Project Title:** Detect Manipulated Facial Images using AI/ML  
