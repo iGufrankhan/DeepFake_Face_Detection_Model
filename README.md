@@ -6,9 +6,9 @@ This project uses Convolutional Neural Networks (CNNs) and the MobileNetV2 archi
 
 ## 🚀 Features
 
-- 📷 Upload any image and get real/fake classification
-- 🧠 Trained on MobileNetV2 for fast and accurate prediction
-- 📊 Live training accuracy/loss visualizations
+- 📷 Upload any image and get real/fake classification  
+- 🧠 Trained on MobileNetV2 for fast and accurate prediction  
+- 📊 Live training accuracy/loss visualizations  
 - 🎯 Accuracy achieved: **95%**
 
 ---
@@ -22,7 +22,9 @@ This project was completed as part of the:
 🗓️ Duration: **June–July 2025**
 
 **Submitted By:**  
-- 👨‍💻 Name: **Gufran Khan**   
+- 👨‍💻 Name: **Gufran Khan**  
+- 📍 Location: **Jharkhand**  
+- 🎓 College: **BIT Sindri**  
 
 **Mentor:**  
 - 👨‍🏫 **Varun Mishra**  
@@ -32,16 +34,18 @@ This project was completed as part of the:
 
 ## 🖥️ Technologies Used
 
-- Python 3.10
-- TensorFlow / Keras
-- OpenCV
-- Streamlit
-- MobileNetV2
-- Matplotlib
+- Python 3.10  
+- TensorFlow / Keras  
+- OpenCV  
+- Streamlit  
+- MobileNetV2  
+- Matplotlib  
+
 ---
 
 ## 📁 Folder Structure
 
+```bash
 DeepFake_Face_Detection_Model/
 ├── app.py                      # Streamlit App
 ├── train.py                    # Model training script
@@ -52,25 +56,27 @@ DeepFake_Face_Detection_Model/
 ├── cover.jpg                   # App Cover Image
 ├── requirements.txt            # Required libraries
 └── README.md                   # Documentation file
+```
 
+---
 
+## ▶️ How to Run the App
 
-
-
- 
-##  ▶️ How to Run the App
+```bash
+# Clone the repository
 git clone https://github.com/iGufrankhan/DeepFake_Face_Detection_Model.git
 
+# Navigate to the project directory
 cd DeepFake_Face_Detection_Model
 
-
-## Install dependencies
+# Install the required dependencies
 pip install -r requirements.txt
 
-## Run the Streamlit App
+# Run the Streamlit application
 streamlit run app.py
+```
 
-
+---
 
 ## 🙏 Acknowledgement
 
@@ -83,7 +89,6 @@ I am also thankful to the faculty and staff of **BIT Sindri** and my peers for t
 Lastly, I sincerely appreciate the efforts of the entire organizing team of the internship for creating such a productive and learning-oriented environment.
 
 This internship has greatly enhanced my knowledge in AI/ML, Streamlit app development, and practical research in DeepFake detection systems. I look forward to applying these learnings in future endeavors.
-
 
 
 
